@@ -47,13 +47,13 @@ i {
 
 /* PAD COLORS --- WHEN ACTIVE */
 .kick-pad.active {
-  background: rgb(97, 97, 248);
+  background: rgb(114, 114, 114);
 }
 .snare-pad.active {
-  background: rgb(247, 167, 19);
+  background: rgb(114, 114, 114);
 }
 .hihat-pad.active {
-  background: rgb(253, 72, 72);
+  background: rgb(114, 114, 114);
 }
 
 /* CENTER SEQUENCER */
