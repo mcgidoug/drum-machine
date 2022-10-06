@@ -12,6 +12,10 @@ body {
   color: white;
 }
 
+h1 {
+  font-size: 1.5rem;
+}
+
 i,
 svg {
   pointer-events: none;
@@ -86,7 +90,7 @@ i {
 /* ALIGN CONTROL BUTTONS */
 .controls {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   flex: 1;
   margin: 0rem 2rem;

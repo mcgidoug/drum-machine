@@ -1,4 +1,4 @@
-# Beatmaker
+# Drum Machine
 
 A simple JS drum machine to program some drum grooves.
 
